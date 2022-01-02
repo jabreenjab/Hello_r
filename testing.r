@@ -1,2 +1,2 @@
 # Hello_r
-This is my first Repository in R.
+print("hello welcome ti github")
